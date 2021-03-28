@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Yazan Alaboudi",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "typescript": "^4.2.3"
   }
