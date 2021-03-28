@@ -1,0 +1,8 @@
+{
+  "name": "tournaments",
+  "version": "1.0.0",
+  "description": "A service to manage tournaments",
+  "main": "index.js",
+  "author": "Yazan Alaboudi",
+  "license": "MIT"
+}
