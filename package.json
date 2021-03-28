@@ -4,5 +4,8 @@
   "description": "A service to manage tournaments",
   "main": "index.js",
   "author": "Yazan Alaboudi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
 }
